@@ -1,8 +1,8 @@
 class Dustoff < Formula
   desc "Find and remove JS/TS build artifacts wasting disk space"
   homepage "https://github.com/westpoint-io/dustoff"
-  url "https://registry.npmjs.org/dustoff/-/dustoff-1.0.0.tgz"
-  sha256 "8cc42c03f1925bb44cde7b981a9f37e09a1a32a9cbf2630217479dd6342355d3"
+  url "https://registry.npmjs.org/dustoff/-/dustoff-1.1.0.tgz"
+  sha256 "a7aef3427a09a11ede327c456387f59a7fb1cdcfb3b269d2688eaf1542340be2"
   license "MIT"
 
   depends_on "node"
